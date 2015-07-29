@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		Log.i("CPL", "Added comment 1 to master");
 		Log.i("CPL", "Added comment 2 to master");
+		Log.i("CPL", "Added .gitignore to master");
 	}
 
 	@Override
